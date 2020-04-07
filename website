@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<!--
+
+        Cynthia-kelly
+
+-->
+<html lang="en" data-predefined-style="true" data-css-presets="true" data-css-preset data-typography-preset style="font-size: 61.38%;">
+<head>
+    <meta charset="utf-8">
+    <title>cynthia's portfolio</title>
+    <style>
+    
+    #background-color: rgb(243, 242, 238);
+    
+    #about {
+        
+    }
+    
+    #contact {
+        text-align: center;
+        padding: 100px;
+    }
+    
+    #lets-create-together {
+        font-size: 50px;
+        text-align: center;
+        padding: 200px;
+    }
+    </style>
+</head>
+<body>
+
+    <p id="about">about</p>
+    <p id="contact">contact</p>
+    <h2 id="lets-create-together">let's create together!</h2>
+    
+</body>
+    
+</html>
